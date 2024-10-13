@@ -24,8 +24,7 @@
 
 2. **Clone the Project:**
    ```bash
-   git clone https://github.com/username/trojan-generator.git
-   cd trojan-generator
+   git clone (https://github.com/archescyber/arx-java-trojan/)
 
 3. **Prepare Necessary Files:**
    Place the appropriate icon files in the icons directory.
