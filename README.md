@@ -1,6 +1,7 @@
 # Arx Java Trojan
 
-This project is designed to create a Trojan software that can download and execute files from specified URLs. It is developed in Java and compiled to run in a Windows environment using AutoIt.
+- This project is designed to create a Trojan software that can download and execute files from specified URLs. 
+- It is developed in Java and compiled to run in a Windows environment using AutoIt.
 
 ## Features
 
