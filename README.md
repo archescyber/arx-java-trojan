@@ -46,3 +46,10 @@ trojan.zip("outputFile.exe"); // Create a ZIP archive
 Ensure that you have permission to download and execute files from the specified URLs.
 
 Use this project responsibly and in compliance with applicable laws and regulations.
+
+# Contribution
+I would like to thank my friend Rovaniq for contributing to this project.
+
+Feel free to contribute to the project by submitting issues or pull requests. All contributions are welcome!
+
+For communication, you can send feedback to my Instagram account named **@yusuf.cyw**
