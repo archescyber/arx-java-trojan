@@ -24,7 +24,7 @@
 
 2. **Clone the Project:**
    ```bash
-   git clone https://github.com/archescyber/Arx-Java-Trojan/
+   git clone https://github.com/cyze-afresh/Arx-Java-Trojan/
 
 3. **Prepare Necessary Files:**
    Place the appropriate icon files in the icons directory.
